@@ -1,0 +1,107 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Три поросенка",
+        "RESTAURANT_ID": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60598659515381,
+          55.740085680994085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Dream",
+        "RESTAURANT_ID": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60077238082886,
+          55.74175262364227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Hover",
+        "RESTAURANT_ID": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60388374328613,
+          55.7380562634032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Scill",
+        "RESTAURANT_ID": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60190963745117,
+          55.737899220738285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Monument",
+        "RESTAURANT_ID": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60560035705566,
+          55.73891394680792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Mercadona",
+        "RESTAURANT_ID": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.605836391448975,
+          55.739505858164996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Globus",
+        "RESTAURANT_ID": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.60899066925049,
+          55.740327271297026
+        ]
+      }
+    }
+  ]
+}
